@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danny-Wits](https://github.com/Danny-Wits)
 
-- 💬 Ask me about **C CPP Unity Godot React GSAP Java Python...**
+- 💬 Ask me about **DSA C CPP Unity Godot React GSAP Java Python...**
 
 - 📫 How to reach me **dannywits2003@gmail.com**
 
