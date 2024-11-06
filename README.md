@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Enginering Pactices**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Danny-Wits](https://github.com/Danny-Wits)
+- 👨‍💻 All of my projects are available at [https://github.com/Danny-Wits](https://github.com/Danny-Wits?tab=repositories)
 
 - 💬 Ask me about **DSA C CPP Unity Godot React GSAP Java Python...**
 
