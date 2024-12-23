@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannywits&label=Profile%20views&color=0e75b6&style=flat" alt="dannywits" /> </p>
 
-- 🔭 I’m currently working with [Ocean of Sites]("https://www.oceanofsites.com")
-
+- 🔭 I’m currently working with [Ocean of Sites]("https://oceanofsites.com/")
 - 🌱 I’m currently learning **Software Enginering Pactices**
 
 - 👨‍💻 All of my projects are available at [GitHub @DannyWits](https://github.com/Danny-Wits?tab=repositories)
