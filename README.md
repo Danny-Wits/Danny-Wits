@@ -27,7 +27,7 @@
 
 ---
 
-# 📌 Pinned Projects (Card Layout)
+# 📌 Projects
 
 <div align="center">
 
@@ -113,7 +113,7 @@
 
 ---
 
-# 🧰 Tools & Technologies (Icons)
+# 🧰 Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,react,nodejs,html,css,mysql,git,unity,godot,tailwind,ts" />
