@@ -1,121 +1,123 @@
-<h1 align="center">Hi 👋, I'm Danishwer</h1>
-<h3 align="center">A Problem-Solving Enthusiast & Full-Stack Explorer</h3>
+<!-- DARK MODE ONLY -->
+<div align="center">
+  
+# Hi 👋, I'm Danishwer  
+### Problem-Solving Enthusiast • Full-Stack Explorer • MCA Student
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DannyWits&label=Profile%20views&color=0e75b6&style=flat" alt="dannywits" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=DannyWits&style=flat&color=blueviolet)
 
----
-
-## 👨‍🎓 About Me
-- 🎓 **Currently pursuing MCA** from **Jammu University**  
-- 🎓 **BCA Graduate** from **Jammu University**  
-- 💼 Previously worked with **[Ocean of Sites](https://oceanofsites.netlify.app)**  
-- 🌱 Currently exploring **React, Supabase, GSAP**, and modern web technologies  
-- 💻 Passionate about building apps, games, and tools that solve real problems  
-- 🎨 Experienced with **P5.js** and **Processing** for creative coding & visual projects  
-- 🎯 Interests: **DSA**, **C/C++**, **Game Dev (Unity, Godot)**, and **Web Dev**  
-- 📂 All my projects are on [GitHub @DannyWits](https://github.com/Danny-Wits?tab=repositories)  
-- 📫 Reach me at **dannywits2003@gmail.com**
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-**Languages:**  
-C • C++ • Java • Python • JavaScript • PHP • GDScript • HTML • CSS • VB.NET • SQL  
+<div align="center">
 
-**Frontend:**  
-React.js • GSAP • HTML • CSS • TailwindCSS • P5.js  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=MCA+Student+at+University+of+Jammu;Full+Stack+Explorer;Game+Developer+(Godot);Creative+Coder+with+P5.js;DSA+%7C+C++%7C+Java+Enthusiast" />
 
-**Backend & Database:**  
-Supabase • MySQL • REST APIs • Node.js (basics) • PHP APIs  
+</div>
 
-**Game Development:**  
-Unity • Godot • Pygame  
-
-**Creative Coding:**  
-P5.js • Processing  
+- 🎓 MCA student at **University of Jammu**  
+- 💼 Former developer at **Ocean of Sites**  
+- 🌱 Learning **React, Supabase, GSAP**, and modern JS ecosystems  
+- 🔧 Building apps, tools, and game dev prototypes  
+- 🎮 Game dev with **Unity, Godot, Pygame**  
+- 📬 Email: **dannywits2003@gmail.com**
 
 ---
 
-## 🚀 Featured Projects
-- **Pass Hona Hai** – Social learning platform for students to share study material & connect.  
-  🔹 Built using **pure PHP-based REST API** for backend, MySQL database, and React frontend.  
-- **Medical Test Booking App** – Book tests, get notifications, download results in PDF.  
-- **2D Car Game with Pygame** – Physics-based racing game with ray-based collision detection.  
-- **React + Supabase Chat App** – Group chat app with real-time messaging.
+# 📌 Pinned Projects (Card Layout)
 
----
+<div align="center">
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danny-Wits&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Wits&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://codeforces.com/profile/DannyWits" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+<!-- CARD TEMPLATE -->
+<a href="https://github.com/Danny-Wits/CodeRunner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny-Wits&repo=CodeRunner&theme=radical&border_color=8B5CF6" />
 </a>
-<a href="mailto:dannywits2003@gmail.com">
-  <img align="center" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/email-48x48.png" alt="Email" height="30" width="40" />
+
+<a href="https://github.com/Danny-Wits/DSA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny-Wits&repo=DSA&theme=radical&border_color=8B5CF6" />
 </a>
+
+<a href="https://github.com/Danny-Wits/SortingJs_P5">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny-Wits&repo=SortingJs_P5&theme=radical&border_color=8B5CF6" />
+</a>
+
+<a href="https://github.com/Danny-Wits/Tower_of_Hanoi_JS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny-Wits&repo=Tower_of_Hanoi_JS&theme=radical&border_color=8B5CF6" />
+</a>
+
+<a href="https://github.com/Danny-Wits/chess-multiplayer-java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny-Wits&repo=chess-multiplayer-java&theme=radical&border_color=8B5CF6" />
+</a>
+
+<a href="https://github.com/Danny-Wits/HammingCode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny-Wits&repo=HammingCode&theme=radical&border_color=8B5CF6" />
+</a>
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  </a>
-  <a href="https://gdscript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/godotengine/godot-docs/master/about/logo.png" alt="GDScript" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+# 📈 Skills Graph
+
+### **Language Usage**
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Wits&layout=donut&theme=radical&border_color=8B5CF6)
+
+</div>
+
+### **Contribution Graph**  
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danny-Wits&theme=react-dark)
+
+</div>
+
+---
+
+# 📊 GitHub Analytics 
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Danny-Wits&show_icons=true&theme=radical&border_color=8B5CF6" height="170" />
+<img src="https://streak-stats.vercel.app/?user=Danny-Wits&theme=radical&hide_border=false&border_radius=5&border=8B5CF6" height="170" />
+
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://codeforces.com/profile/DannyWits"><img src="https://img.shields.io/badge/Codeforces-4458FF?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="mailto:dannywits2003@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
+
+# 🧰 Tools & Technologies (Icons)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,react,nodejs,html,css,mysql,git,unity,godot,tailwind,ts" />
+</p>
+
+---
 
