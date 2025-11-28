@@ -1,6 +1,6 @@
 <!-- DARK MODE ONLY -->
 <div align="center">
-  
+
 # Hi 👋, I'm Danishwer  
 ### Problem-Solving Enthusiast • Full-Stack Explorer • MCA Student
 
@@ -29,36 +29,37 @@
 
 # 📌 Projects
 
-<div align="center">
+<p align="center">
 
-<!-- CARD TEMPLATE -->
-<a href="https://github.com/Danny-Wits/CodeRunner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny-Wits&repo=CodeRunner&theme=radical&border_color=8B5CF6" />
-</a>
+  <a href="https://github.com/Danny-Wits/CodeRunner">
+    <img src="https://img.shields.io/badge/CodeRunner-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B5CF6&color=000000" />
+  </a>
 
-<a href="https://github.com/Danny-Wits/DSA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny-Wits&repo=DSA&theme=radical&border_color=8B5CF6" />
-</a>
+  <a href="https://github.com/Danny-Wits/DSA">
+    <img src="https://img.shields.io/badge/DSA-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B5CF6&color=000000" />
+  </a>
 
-<a href="https://github.com/Danny-Wits/SortingJs_P5">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny-Wits&repo=SortingJs_P5&theme=radical&border_color=8B5CF6" />
-</a>
+  <a href="https://github.com/Danny-Wits/SortingJs_P5">
+    <img src="https://img.shields.io/badge/SortingJs_P5-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B5CF6&color=000000" />
+  </a>
 
-<a href="https://github.com/Danny-Wits/Tower_of_Hanoi_JS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny-Wits&repo=Tower_of_Hanoi_JS&theme=radical&border_color=8B5CF6" />
-</a>
+  <a href="https://github.com/Danny-Wits/Tower_of_Hanoi_JS">
+    <img src="https://img.shields.io/badge/Tower_of_Hanoi_JS-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B5CF6&color=000000" />
+  </a>
 
-<a href="https://github.com/Danny-Wits/chess-multiplayer-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny-Wits&repo=chess-multiplayer-java&theme=radical&border_color=8B5CF6" />
-</a>
+  <a href="https://github.com/Danny-Wits/chess-multiplayer-java">
+    <img src="https://img.shields.io/badge/chess--multiplayer--java-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B5CF6&color=000000" />
+  </a>
 
-<a href="https://github.com/Danny-Wits/HammingCode">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny-Wits&repo=HammingCode&theme=radical&border_color=8B5CF6" />
-</a>
+  <a href="https://github.com/Danny-Wits/HammingCode">
+    <img src="https://img.shields.io/badge/HammingCode-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B5CF6&color=000000" />
+  </a>
 
-</div>
+</p>
+
 
 ---
+#  Skills 
 
 <p align="center">
 
@@ -74,14 +75,6 @@
 
 ---
 
-# 📈 Skills Graph
-
-### **Language Usage**
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Wits&layout=donut&theme=radical&border_color=8B5CF6)
-
-</div>
 
 ### **Contribution Graph**  
 <div align="center">
@@ -94,13 +87,13 @@
 
 # 📊 GitHub Analytics 
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Danny-Wits&show_icons=true&theme=radical&border_color=8B5CF6" height="170" />
 <img src="https://streak-stats.vercel.app/?user=Danny-Wits&theme=radical&hide_border=false&border_radius=5&border=8B5CF6" height="170" />
 
+---
 
-</div>
+## 🏆 GitHub Trophies  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Danny-Wits&theme=radical)](https://github.com/Danny-Wits)
 
 ---
 
