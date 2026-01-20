@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=MCA+Student+at+University+of+Jammu;Full+Stack+Explorer;Game+Developer+(Godot);Creative+Coder+with+P5.js;DSA+%7C+C++%7C+Java+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=MCA+Student+at+University+of+Jammu;Full+Stack+Explorer;Game+Developer+(Godot);Creative+Coder+with+P5.js;DSA+%7C+C++%7C+Code+Enthusiast" />
 
 </div>
 
