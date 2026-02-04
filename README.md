@@ -91,12 +91,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Danny-Wits&theme=radical)](https://github.com/Danny-Wits)
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
