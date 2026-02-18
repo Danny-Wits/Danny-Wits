@@ -18,6 +18,7 @@
 
 </div>
 
+- 🏆 Winner of Innovation 1.0 in AI/DA
 - 🎓 MCA student at **University of Jammu**  
 - 💼 Former developer at **Ocean of Sites**  
 - 🌱 Learning **React, Supabase, GSAP**, and modern JS ecosystems  
