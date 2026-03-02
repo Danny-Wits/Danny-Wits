@@ -1,4 +1,3 @@
-<!-- DARK MODE ONLY -->
 <div align="center">
 
 # Hi 👋, I'm Danishwer  
